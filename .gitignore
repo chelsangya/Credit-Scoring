@@ -1,0 +1,6 @@
+# ignore csv
+*.csv
+# ignore pkl
+*.pkl
+# ignore my_new_env folder
+my_new_env/
